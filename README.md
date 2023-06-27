@@ -8,5 +8,10 @@ The aim was to create social network based on random dataset and point out the r
 
 Some of the screens from the project:
 
-Centrality Measure:
+***Centrality Measure***
 ![output](https://github.com/pkaweck/Social-Network-Analysis-/assets/114445313/5e50bbb9-476b-483c-97b8-ebe23ec7455b)
+
+***First community***
+![output1](https://github.com/pkaweck/Social-Network-Analysis-/assets/114445313/5fcd827f-a2eb-494e-bc61-102d66d7c64e)
+
+***Second community***
