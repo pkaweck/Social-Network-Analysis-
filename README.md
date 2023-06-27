@@ -15,3 +15,4 @@ Some of the screens from the project:
 ![output1](https://github.com/pkaweck/Social-Network-Analysis-/assets/114445313/5fcd827f-a2eb-494e-bc61-102d66d7c64e)
 
 ***Second community***
+![output2](https://github.com/pkaweck/Social-Network-Analysis-/assets/114445313/ffc6d210-c2e6-492b-bdff-22f928c17e92)
